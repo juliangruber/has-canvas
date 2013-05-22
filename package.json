@@ -1,0 +1,25 @@
+{
+  "name" : "has-canvas",
+  "description" : "Check for canvas support.",
+  "version" : "0.0.0",
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/juliangruber/has-canvas.git"
+  },
+  "homepage": "https://github.com/juliangruber/has-canvas",
+  "main" : "index.js",
+  "scripts" : {
+    "test" : "tap test/*.js"
+  },
+  "dependencies" : {},
+  "devDependencies" : {
+    "tap" : "*"
+  },
+  "keywords": ["canvas","browser","html5","browserify"],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
