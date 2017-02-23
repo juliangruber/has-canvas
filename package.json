@@ -13,7 +13,7 @@
   },
   "dependencies" : {},
   "devDependencies" : {
-    "tap" : "*"
+    "tap" : ">=10.2.1"
   },
   "keywords": ["canvas","browser","html5","browserify"],
   "author": {
